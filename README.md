@@ -18,8 +18,8 @@
 
 - 프로젝트 하면서 저장된 그리드 디자인 정보<br />
   :: Extension -> 확장 dll들을 이 폴더에 배치하면 디자이너 실행시 동적으로 가져와 설정되고 클릭시 그리드 정보를 전달한다 <br />
-![image](https://user-images.githubusercontent.com/116536524/198010216-d064e851-29b6-4447-a40c-6bd9da67a3a5.png)
-
+![image](https://user-images.githubusercontent.com/116536524/199034487-9794b885-5056-406d-9d54-d3a87a59e157.png)
+ 
 - 확장dll : [테스트 확장기능임.]을 구현한 dll<br />
 ![image](https://user-images.githubusercontent.com/116536524/198010651-2d80ded1-c39d-436f-9604-6fd9e5892bdd.png)
 
